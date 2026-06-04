@@ -1,0 +1,12 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {"item": "create_ice_creams:cone"},
+    {"item": "create_ice_creams:apple_cream"}
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:coned_apple_ice_cream"
+    }
+  ]
+}

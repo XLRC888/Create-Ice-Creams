@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "create_ice_creams:coned_vanilla_ice_cream",
+    "create_ice_creams:coned_chocolate_ice_cream",
+    "create_ice_creams:coned_toffee_ice_cream",
+    "create_ice_creams:coned_bubblegum_flavored_ice_cream",
+    "create_ice_creams:coned_mint_ice_cream",
+    "create_ice_creams:coned_mystery_ice_cram",
+    "create_ice_creams:coned_mystery_ice_crem",
+    "create_ice_creams:coned_mystery_ice_craem",
+    "create_ice_creams:coned_mystery_ice_cream",
+    "create_ice_creams:coned_watermelon_ice_cream",
+    "create_ice_creams:coned_honey_ice_cream",
+    "create_ice_creams:coned_apple_ice_cream",
+    "create_ice_creams:coned_cookie_ice_cream",
+    "create_ice_creams:coned_cactus_ice_cream",
+    "create_ice_creams:coned_beetroot_ice_cream",
+    "create_ice_creams:coned_potato_ice_cream"
+  ]
+}

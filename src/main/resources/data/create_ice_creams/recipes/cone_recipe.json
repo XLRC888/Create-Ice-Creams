@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:dough",
+      "count": 2
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:cone"
+    }
+  ]
+}

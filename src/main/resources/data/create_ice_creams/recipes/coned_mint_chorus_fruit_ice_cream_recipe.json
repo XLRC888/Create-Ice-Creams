@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:mint_cream"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:coned_mint_chorus_fruit_ice_cream"
+    }
+  ]
+}

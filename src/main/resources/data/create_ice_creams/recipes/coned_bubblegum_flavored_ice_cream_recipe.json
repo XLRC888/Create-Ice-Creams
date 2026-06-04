@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:bubblegum_flavored_cream"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:coned_bubblegum_flavored_ice_cream"
+    }
+  ]
+}

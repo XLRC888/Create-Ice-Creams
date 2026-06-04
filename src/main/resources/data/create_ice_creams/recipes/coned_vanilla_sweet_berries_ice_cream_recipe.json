@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:vanilla"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:coned_vanilla_sweet_berries_ice_cream"
+    }
+  ]
+}
