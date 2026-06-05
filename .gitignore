@@ -16,4 +16,5 @@ out/
 run/
 crash-reports/
 local.properties
+.vscode/
 
