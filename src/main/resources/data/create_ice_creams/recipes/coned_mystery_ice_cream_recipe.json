@@ -2,15 +2,32 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "create_ice_creams:cone"
+      "item": "create_ice_creams:mystery_cream"
     },
     {
-      "item": "create_ice_creams:mystery_cream"
+      "item": "minecraft:sugar"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:milk"
     }
   ],
   "results": [
     {
-      "item": "create_ice_creams:coned_mystery_ice_cream"
+      "item": "create_ice_creams:coned_mystery_ice_cream",
+      "chance": 0.25
+    },
+    {
+      "item": "create_ice_creams:coned_mystery_ice_cram",
+      "chance": 0.25
+    },
+    {
+      "item": "create_ice_creams:coned_mystery_ice_crem",
+      "chance": 0.25
+    },
+    {
+      "item": "create_ice_creams:coned_mystery_ice_craem",
+      "chance": 0.25
     }
   ]
 }
