@@ -1,0 +1,34 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:mystery_cream"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "create_ice_creams:coned_mystery_ice_cream"
+    },
+    {
+      "chance": 0.25,
+      "id": "create_ice_creams:coned_mystery_ice_cram"
+    },
+    {
+      "chance": 0.25,
+      "id": "create_ice_creams:coned_mystery_ice_crem"
+    },
+    {
+      "chance": 0.25,
+      "id": "create_ice_creams:coned_mystery_ice_craem"
+    }
+  ]
+}

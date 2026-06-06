@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:beetroot_cream"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_ice_creams:coned_beetroot_ice_cream"
+    }
+  ]
+}

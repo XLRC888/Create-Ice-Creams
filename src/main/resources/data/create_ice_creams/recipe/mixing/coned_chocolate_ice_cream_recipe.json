@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:chocolate_cream"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_ice_creams:coned_chocolate_ice_cream"
+    }
+  ]
+}
