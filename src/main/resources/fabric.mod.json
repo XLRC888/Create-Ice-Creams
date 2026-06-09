@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "create_ice_creams",
+  "version": "${version}",
+  "name": "Create: Ice & Creams",
+  "description": "an addon which adds creams & ice creams to the create mod",
+  "authors": ["axollen"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.axollen.create_ice_creams.CreateIceCreamsMod"]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "~${minecraft_version}",
+    "create": "*"
+  }
+}

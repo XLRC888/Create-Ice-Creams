@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 20250,
+      "fluidTag": "c:honey"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "amount": 20250,
+      "fluid": "milk:still_milk"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:honey_cream"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ice_creams:cone"
+    },
+    {
+      "item": "create_ice_creams:chocolate_cream"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ice_creams:coned_chocolate_fusion_ice_cream"
+    }
+  ]
+}

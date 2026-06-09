@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "create_ice_creams:vanilla",
+    "create_ice_creams:chocolate_cream",
+    "create_ice_creams:mystery_cream",
+    "create_ice_creams:mint_cream",
+    "create_ice_creams:toffee_cream",
+    "create_ice_creams:bubblegum_flavored_cream",
+    "create_ice_creams:watermelon_cream",
+    "create_ice_creams:honey_cream",
+    "create_ice_creams:apple_cream",
+    "create_ice_creams:cookie_cream",
+    "create_ice_creams:cactus_cream",
+    "create_ice_creams:beetroot_cream",
+    "create_ice_creams:potato_cream"
+  ]
+}
